@@ -1,0 +1,19 @@
+{
+	"file": "https://github.com/kswaminathan/upset_test/blob/master/pMHC1_upset.csv",
+	"name": "pMHC1 peptides",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Peptide" },
+		{ "type": "integer", "index": 1, "name": "U1" },
+		{ "type": "integer", "index": 1, "name": "U2" },
+		{ "type": "integer", "index": 1, "name": "D1" },
+		{ "type": "integer", "index": 1, "name": "D2" },
+		{ "type": "integer", "index": 1, "name": "Z1" },
+		{ "type": "integer", "index": 1, "name": "Z2" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 6 }
+	]
+}
