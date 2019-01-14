@@ -7,11 +7,11 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Peptide" },
 		{ "type": "integer", "index": 1, "name": "U1" },
-		{ "type": "integer", "index": 1, "name": "U2" },
-		{ "type": "integer", "index": 1, "name": "D1" },
-		{ "type": "integer", "index": 1, "name": "D2" },
-		{ "type": "integer", "index": 1, "name": "Z1" },
-		{ "type": "integer", "index": 1, "name": "Z2" }
+		{ "type": "integer", "index": 2, "name": "U2" },
+		{ "type": "integer", "index": 3, "name": "D1" },
+		{ "type": "integer", "index": 4, "name": "D2" },
+		{ "type": "integer", "index": 5, "name": "Z1" },
+		{ "type": "integer", "index": 6, "name": "Z2" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 6 }
